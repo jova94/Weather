@@ -1,0 +1,3 @@
+environment:
+ server: http://test.weatherisgood.com
+ port: 7000
